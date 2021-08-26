@@ -1,0 +1,3 @@
+app:
+  transaction:
+    threshold-seconds: 34
