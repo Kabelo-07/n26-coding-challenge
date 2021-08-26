@@ -10,7 +10,7 @@ public enum TransactionStatus {
     PAST_DATED(204);
 
     private final int statusCode;
-    private TransactionStatus(final int status){
+    TransactionStatus(final int status){
         this.statusCode = status;
     }
 }
