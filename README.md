@@ -1,4 +1,4 @@
-# N26 Coding Challenge
+# Coding Challenge
 
 ## Description
 
